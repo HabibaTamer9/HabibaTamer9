@@ -30,11 +30,9 @@
 
 ## 📱 Projects
 
-| Project | Description | Screenshot |
+| **To-Do App** | **Weather App** | **Movies App** |
 |---------|------------|-----------|
-| **To-Do App** | Flutter app with Hive & Provider | ![To-Do App](https://github.com/HabibaTamer9/todo_app/blob/master/assets/home_screen.png) |
-| **Weather App** | Flutter app using API integration | ![Weather App](https://github.com/HabibaTamer9/weather_app/blob/master/assets/screens/night.png) |
-| **Movies App** | Flutter app using API integration | ![Movies App](https://github.com/HabibaTamer9/movies/blob/master/assets/HomeScreen.gif) |
+| ![To-Do App](https://github.com/HabibaTamer9/todo_app/blob/master/assets/home_screen.png) | ![Weather App](https://github.com/HabibaTamer9/weather_app/blob/master/assets/screens/night.png) | ![Movies App](https://github.com/HabibaTamer9/movies/blob/master/assets/HomeScreen.gif) |
 
 ---
 
