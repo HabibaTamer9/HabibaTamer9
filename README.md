@@ -30,9 +30,13 @@
 
 ## 📱 Projects
 
-| **To-Do App** | **Weather App** | **Movies App** | **Grocery Store** |
+| **To-Do App** | **Weather App** | **Movies App** |
 |---------|------------|-----------|-----------|
-| ![To-Do App](https://github.com/HabibaTamer9/HabibaTamer9/blob/main/todo.png) | ![Weather App](https://github.com/HabibaTamer9/HabibaTamer9/blob/main/weather.png) | ![Movies App](https://github.com/HabibaTamer9/HabibaTamer9/blob/main/movies.png) | ![Grocery Store](https://github.com/HabibaTamer9/HabibaTamer9/blob/main/grocery.png) |
+| ![To-Do App](https://github.com/HabibaTamer9/HabibaTamer9/blob/main/todo.png) | ![Weather App](https://github.com/HabibaTamer9/HabibaTamer9/blob/main/weather.png) | ![Movies App](https://github.com/HabibaTamer9/HabibaTamer9/blob/main/movies.png) |
+
+| **News App** | **News App Dark** | **Grocery Store** |
+|------------|-----------|-----------|
+| ![News App](https://github.com/HabibaTamer9/HabibaTamer9/blob/main/9.png) | ![News App Dark](https://github.com/HabibaTamer9/HabibaTamer9/blob/main/10.png) | ![Grocery Store](https://github.com/HabibaTamer9/HabibaTamer9/blob/main/grocery.png) |
 
 ---
 
